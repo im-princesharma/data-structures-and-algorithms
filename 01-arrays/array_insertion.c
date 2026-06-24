@@ -12,7 +12,7 @@ Working :
 */
 
 #include <stdio.h>
-
+ 
 int main() {
     int arr[100];
     int size, position, value;

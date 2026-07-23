@@ -2,7 +2,7 @@
 ==================================================
 Title   : Linear Search
 Purpose : Search an element in an array.
-Working :
+Working : 
 1. Accept array elements.
 2. Accept target value.
 3. Compare each element.

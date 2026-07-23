@@ -12,7 +12,7 @@ Working :
 
 #include <stdio.h>
 
-int main() {
+int main() { 
     int arr[100];
     int size, key;
     int found = 0;

@@ -1,5 +1,5 @@
 /*
-==================================================   
+==================================================    
 Title   : Linear Search 
 Purpose : Search an element in an array. 
 Working :   

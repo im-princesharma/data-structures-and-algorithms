@@ -5,7 +5,7 @@ Purpose : Search an element in an array.
 Working :   
 1. Accept array elements.
 2. Accept target value.
-3. Compare each element.
+3. Compare each element. 
 4. Display position if found.
 ==================================================
 */

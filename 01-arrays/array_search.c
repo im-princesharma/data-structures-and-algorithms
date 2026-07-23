@@ -1,7 +1,7 @@
 /*
 ==================================================  
 Title   : Linear Search
-Purpose : Search an element in an array.
+Purpose : Search an element in an array. 
 Working : 
 1. Accept array elements.
 2. Accept target value.

@@ -31,7 +31,7 @@ int main() {
         for(int j = i + 1; j < size; j++) {
 
             if(arr[i] == arr[j]) {
- 
+  
                 for(int k = j; k < size - 1; k++) {
                     arr[k] = arr[k + 1];
                 }

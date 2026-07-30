@@ -36,7 +36,7 @@ int main() {
                     arr[k] = arr[k + 1];
                 }
 
-                size--;  
+                size--;   
                 j--; 
             } 
         }

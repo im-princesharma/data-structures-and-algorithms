@@ -40,7 +40,7 @@ int main() {
                 j--; 
             } 
         }
-    }
+    } 
  
     printf("\nArray After Removing Duplicates:\n");
  

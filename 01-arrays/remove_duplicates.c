@@ -1,7 +1,7 @@
 /*
 ==================================================
 Title   : Remove Duplicate Elements
-Purpose : Remove duplicate values from an array.
+Purpose : Remove duplicate values from an array. 
 Working : 
 1. Accept array elements.
 2. Compare elements for duplicates.

@@ -14,7 +14,7 @@ Working :
 
 int main() { 
  
-    int arr[100];
+    int arr[100]; 
     int size;
 
     printf("Enter number of elements: ");

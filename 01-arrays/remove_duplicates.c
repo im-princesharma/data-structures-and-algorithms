@@ -39,7 +39,7 @@ int main() {
                 size--;   
                 j--; 
             } 
-        }
+        } 
     } 
  
     printf("\nArray After Removing Duplicates:\n");

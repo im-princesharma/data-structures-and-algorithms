@@ -49,6 +49,6 @@ int main() {
     }
  
     printf("\nTotal Unique Elements: %d\n", size);
-
+ 
     return 0;
 }

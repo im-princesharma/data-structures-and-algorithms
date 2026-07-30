@@ -1,5 +1,5 @@
 /*
-==================================================
+================================================== 
 Title   : Remove Duplicate Elements
 Purpose : Remove duplicate values from an array. 
 Working : 

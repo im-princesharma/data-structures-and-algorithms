@@ -17,7 +17,7 @@ int main() {
     int arr[100]; 
     int size;
 
-    printf("Enter number of elements: ");
+    printf("Enter number of elements: "); 
     scanf("%d", &size);
   
     printf("Enter %d elements:\n", size);  

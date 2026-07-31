@@ -19,7 +19,7 @@ int main() {
     int size;  
   
     printf("Enter number of elements: ");  
-    scanf("%d", &size);  
+    scanf("%d", &size);   
  
     printf("Enter %d elements:\n", size);
   

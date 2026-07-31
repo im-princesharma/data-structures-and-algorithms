@@ -43,7 +43,7 @@ int main() {
                 count++;
                 visited[j] = 1;
             }
-        }
+        } 
 
         printf("%d occurs %d time(s)\n", arr[i], count);
     }

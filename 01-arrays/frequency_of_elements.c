@@ -14,7 +14,7 @@ Working :
  
 int main() {
  
-    int arr[100];  
+    int arr[100];   
     int visited[100] = {0};
     int size;  
   

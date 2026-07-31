@@ -16,7 +16,7 @@ int main() {
  
     int arr[100];  
     int visited[100] = {0};
-    int size; 
+    int size;  
   
     printf("Enter number of elements: ");  
     scanf("%d", &size);  

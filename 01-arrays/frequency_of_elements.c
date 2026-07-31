@@ -33,7 +33,7 @@ int main() {
 
         if(visited[i] == 1) {
             continue;
-        }
+        } 
 
         int count = 1;
 

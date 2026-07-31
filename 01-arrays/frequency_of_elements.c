@@ -5,7 +5,7 @@ Purpose : Count frequency of each element in array.
 Working :
 1. Accept array elements.
 2. Compare each element with others.
-3. Count occurrences.
+3. Count occurrences. 
 4. Display frequency of every element.
 ==================================================
 */

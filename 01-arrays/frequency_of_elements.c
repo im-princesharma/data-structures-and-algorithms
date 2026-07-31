@@ -7,7 +7,7 @@ Working :
 2. Compare each element with others.
 3. Count occurrences. 
 4. Display frequency of every element.
-==================================================
+==================================================  
 */
 
 #include <stdio.h>

@@ -20,7 +20,7 @@ int main() {
 
     printf("Enter number of elements: "); 
     scanf("%d", &size);
-
+ 
     printf("Enter %d elements:\n", size);
 
     for(int i = 0; i < size; i++) {

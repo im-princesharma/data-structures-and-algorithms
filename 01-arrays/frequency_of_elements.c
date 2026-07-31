@@ -27,7 +27,7 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
-    printf("\nFrequency Table:\n");
+    printf("\nFrequency Table:\n"); 
 
     for(int i = 0; i < size; i++) {
 
